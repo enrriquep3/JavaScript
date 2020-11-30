@@ -1,1 +1,1 @@
-<h1>This is a Serie of apps using javaScript</h1>
+<h1>javaScript code</h1>
