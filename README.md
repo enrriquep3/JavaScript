@@ -1,1 +1,1 @@
-<h1>javaScript code</h1>
+<h1>javaScript code.</h1>
